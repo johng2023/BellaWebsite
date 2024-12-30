@@ -82,7 +82,7 @@ body {
 
 .header {
     min-height: 500px;
-    background-image: url(/Images/shutterstock_1755920540.webp);
+    background-image: url(/shutterstock_1755920540.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -159,7 +159,7 @@ body {
     justify-content: space-around;
     align-items: center;
     padding: 20px;
-    background-image: url(/Images/shutterstock_2271538317_480x480.webp);
+    background-image: url(/shutterstock_2271538317_480x480.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
