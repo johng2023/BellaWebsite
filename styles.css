@@ -45,7 +45,7 @@ body {
     padding-top: 5px;
 }
 
-.navbar ul li:nth-child(4){
+.navbar ul li:nth-child(2){
     border: none;
     padding: 0;
     margin-right: 0;
@@ -264,8 +264,13 @@ footer a img{
         flex-direction: column;
     }
 
+    .section1 img{
+        margin-right: 0px;
+    }
+
     .section1 .container .box {
         flex-direction: column;
+        justify-content: center;
         width: 100%;
         margin: 10px 0;
     }
@@ -294,6 +299,7 @@ footer a img{
 
     footer {
         flex-direction: column;
+        margin-bottom: 30px;
     }
 
     footer .media {
