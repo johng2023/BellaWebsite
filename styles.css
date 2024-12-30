@@ -265,6 +265,7 @@ footer a img{
     }
 
     .section1 .container .box {
+        flex-direction: column;
         width: 100%;
         margin: 10px 0;
     }
